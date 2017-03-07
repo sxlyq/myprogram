@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCApplication13", "MFCApplication13\MFCApplication13.vcxproj", "{6659C3EF-957A-4F3D-B7EF-F8908B1966FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6659C3EF-957A-4F3D-B7EF-F8908B1966FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6659C3EF-957A-4F3D-B7EF-F8908B1966FC}.Debug|Win32.Build.0 = Debug|Win32
+		{6659C3EF-957A-4F3D-B7EF-F8908B1966FC}.Release|Win32.ActiveCfg = Release|Win32
+		{6659C3EF-957A-4F3D-B7EF-F8908B1966FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
